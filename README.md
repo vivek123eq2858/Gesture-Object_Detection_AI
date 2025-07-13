@@ -111,7 +111,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
----
 
-Let me know if you'd like me to create a `requirements.txt` file for this too, or auto-generate a GitHub badge setup!
-```
